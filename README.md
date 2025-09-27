@@ -192,7 +192,7 @@ If you find VXAntiXRay+ useful, please consider:
 
 **VXAntiXRay+** - Protecting your server's economy with intelligence, not interference.
 
-*Developed by VNX | Version 1.0.0 | Compatible with Minecraft 1.16-1.20+*
+*Developed by Vnxsitoow | Version 1.0.0 | Compatible with Minecraft 1.16-1.20+*
 
 ---
 
