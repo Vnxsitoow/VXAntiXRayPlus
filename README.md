@@ -198,7 +198,7 @@ If you find VXAntiXRay+ useful, please consider:
 
 ## 🔗 Links
 
-- **Discord:** [Join our community](#)
-- **GitHub:** [Source code & issues](#)  
+- **Discord:** [Join our community](https://discord.gg/YNe9YnuUAr)
+- **GitHub:** [Source code & issues](https://github.com/Vnxsitoow/VXAntiXRayPlus)  
 - **Wiki:** [Detailed documentation](#)
-- **Support:** [Get help](#)
+- **Support:** [Get help](https://discord.gg/YNe9YnuUAr)
