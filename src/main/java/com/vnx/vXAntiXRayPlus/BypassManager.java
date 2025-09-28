@@ -35,12 +35,10 @@ public class BypassManager implements Listener {
         if (player.hasPermission("vxantixray.bypass")) {
             bypassPlayers.add(player.getUniqueId());
 
-            // Notificar al jugador que tiene bypass activo
             if (plugin.getPluginConfig().getBoolean("bypass.notify-player", true)) {
                 player.sendMessage("§e[AntiXRay] §7Tienes bypass activo - puedes ver todos los minerales.");
             }
 
-            // Log del bypass
             plugin.getLogger().info("Jugador " + player.getName() + " tiene bypass activo.");
         } else {
             bypassPlayers.remove(player.getUniqueId());
