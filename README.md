@@ -186,7 +186,7 @@ If you find VXAntiXRay+ useful, please consider:
 - ⭐ **Rating** this plugin on SpigotMC
 - 💬 **Leaving a review** with your experience
 - 🔄 **Sharing** with other server owners
-- 💰 **Supporting** development (optional donation link)
+- 💰 **Supporting** development https://paypal.me/notvnx
 
 ---
 
