@@ -106,9 +106,8 @@ public class VXAntiXRayPlus extends JavaPlugin implements Listener {
     }
 
     private void scanAroundPlayer(Player player) {
-        // Verificar bypass
         if (bypassManager.hasBypass(player)) {
-            return; // No ocultar nada si tiene bypass
+            return; 
         }
 
         Set<Block> currentHidden = playerHiddenBlocks.computeIfAbsent(player.getUniqueId(), k -> new HashSet<>());
